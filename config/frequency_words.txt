@@ -35,10 +35,12 @@ ios
 comfyui
 tts
 qwen
+workflow
 
-ai
-!gai
 人工智能
+ai
+n8n
+!gai
 
 科技
 
