@@ -34,6 +34,7 @@ ios
 大模型
 comfyui
 tts
+qwen
 
 ai
 !gai
